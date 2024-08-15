@@ -1,5 +1,8 @@
 # aseprite-window-x64-builder
 
+RENDER
+
+
 Language: English | [中文](./locales/zh-cn.md)
 
 These are 2 GitHub Workflow that builds Aseprite for Windows x64 bit, either building a specified version or automatically building of the lastest version. By using GitHub Actions, there is no need for manual compilation, and it does not include any malicious software.
